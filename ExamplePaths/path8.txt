@@ -1,0 +1,22 @@
+10
+10
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XsXXXXXXX             XXXXXXX X
+X X X X X X X X X X X X X X X X
+X X   X X X X X X X X X X X X X
+X X X X   X   X   X   X   X   X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X   X   X   X       X   X     X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X   X   X   X   X   X   X
+X X   X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X XXXXXXX             XXXXXXXeX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
